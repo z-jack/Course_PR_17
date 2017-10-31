@@ -52,6 +52,7 @@ def main():
             parr.append((x, y))
             carr.append(c)
     mu, clusters = find_centers(parr, 7)
+    print(len(clusters))
     for _, i in clusters.items():
         color = [random.random() for _ in range(3)]
         for j in i:

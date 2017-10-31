@@ -1,11 +1,11 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import random
 import math
 import sys
 import os
-import random
-import numpy as np
-import matplotlib.pyplot as plt
 
-MIN_DISTANCE = 0.000001
+MIN_DISTANCE = 0.0001
 GROUP_DISTANCE_TOLERANCE = .1
 
 
@@ -123,7 +123,7 @@ def main():
     parr = []
     carr = []
 
-    with open(os.path.join('synthetic_data', 'flame.txt'), 'r') as f:
+    with open(os.path.join('synthetic_data', 'Aggregation.txt'), 'r') as f:
         s = f.readlines()
         for l in s:
             x, y, c = map(lambda x: float(x), l.strip().split(','))
