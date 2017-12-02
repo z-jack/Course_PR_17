@@ -27,10 +27,12 @@ Deep Learning: [1](http://yangyan.li/downloads/Deep%20Learning_1.pptx) [2](http:
 * [Robust Continuous Clustering](http://vladlen.info/publications/robust-continuous-clustering/) [slide] - [Group 5](https://github.com/yangyanli/Course_PR_17#group-5) Oct.23 
 * [Border-Peeling Clustering](https://arxiv.org/abs/1612.04869) [[slide]](slides/Border_Peeling_Clustering.odp) [[code]](https://github.com/yeongchingtarn/BorderPeelingClustering) - [Group 6](https://github.com/yangyanli/Course_PR_17#group-6) Oct.23
 * [Object Category Structure in Response Patterns of Neuronal Population in Monkey Inferior Temporal Cortex](http://www.cns.nyu.edu/kianilab/papers/Kiani_Esteky_Mirpour_Tanaka_2007.pdf)
-
-### Other
-
 * [An Implementation of the Mean Shift Filter on FPGA](https://www.computer.org/csdl/proceedings/fpl/2011/4529/00/4529a219.pdf) [slide] - [Group 7](https://www.computer.org/csdl/proceedings/fpl/2011/4529/00/4529a219.pdf) Oct.23
+
+### Metric Learning
+* [Distance Metric Learning with Application to Clustering with Side-Information](https://papers.nips.cc/paper/2164-distance-metric-learning-with-application-to-clustering-with-side-information.pdf)
+
+### Deep Learning
 * [Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829) [slide] - [Group 4](https://github.com/yangyanli/Course_PR_17#group-4) Nov.13
 * [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](http://science.sciencemag.org/content/early/2017/10/26/science.aag2612) [slide] - [Group 3](https://github.com/yangyanli/Course_PR_17#group-5) Nov.13
 * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
@@ -79,7 +81,7 @@ Deep Learning: [1](http://yangyan.li/downloads/Deep%20Learning_1.pptx) [2](http:
 **组员** 
 - [闫心愿](https://github.com/DesirY)
 - [槐硕](https://github.com/night-star)
-- [符豫](https://github.com/YuSymbol)
+- [符豫](https://github.com/YangShaw)
 - [马金超](https://github.com/HeatedMajin)
 - [杜高源](https://github.com/Hiramdu)
 - [陈尔亮](https://github.com/)
@@ -92,7 +94,7 @@ Deep Learning: [1](http://yangyan.li/downloads/Deep%20Learning_1.pptx) [2](http:
 
 ### Group 5
 
-**小组成员**：董慧冰，王文杰，陈召峥，马志鑫，林信然
+**小组成员**：董慧冰，王文杰，陈召峥，马志鑫，林信然([@TerryLam1996](https://github.com/TerryLam1996))
 
 ### Group 6
 
